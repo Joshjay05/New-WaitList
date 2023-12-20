@@ -429,7 +429,7 @@ ul,li{
 
 .vshort-head{
      position: absolute;
-    top: -2%;
+    top: -6%;
     z-index: 3;
     font-size: 17px;
     /* line-height: .5rem; */
@@ -438,7 +438,7 @@ ul,li{
 }
  .w-head{
     position: absolute;
-    top: -1%;
+    top: -4%;
     z-index: 3;
     font-size: 16px;
     /* line-height: .5rem; */
@@ -447,7 +447,7 @@ ul,li{
 }
 .sw-head{
        position: absolute;
-    top: -52%;
+    top: -130%;
     z-index: 3;
     font-size: 17px;
     /* line-height: .5rem; */
